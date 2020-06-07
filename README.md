@@ -15,7 +15,7 @@ We suggest to read the files in this order.
 
 2- [CartPole](https://github.com/msarmadsaeed/STA-208-Project/tree/master/Cartpole), [Breaokut](https://github.com/msarmadsaeed/STA-208-Project/tree/master/BreakOut) and [Breakout LSTM](https://github.com/msarmadsaeed/STA-208-Project/tree/master/BreakOut%20LSTM) folders have the code and results stored in text file.
 
-Each folder has one single notebook file.
+Each folder has one single notebook file. Please refer those files for the detailed explanation of codes
 
 ## Summary
 
